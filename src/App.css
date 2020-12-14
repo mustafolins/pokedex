@@ -12,14 +12,13 @@
 }
 
 #crossfade > img { 
-  width: 22%;
   position: absolute;
   top: 35%;
-  left: 39%;
+  left: 34%;
+  width: 34%;
   color: transparent;
   opacity: 0;
   z-index: 0;
-  -webkit-backface-visibility: hidden;
   -webkit-animation: imageAnimation 24s linear infinite 0s;
   -moz-animation: imageAnimation 24s linear infinite 0s;
   -o-animation: imageAnimation 24s linear infinite 0s;
